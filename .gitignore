@@ -1,8 +1,0 @@
-node_modules
-dist
-out
-*.log*
-examples
-images
-addons/build
-rabi-*
